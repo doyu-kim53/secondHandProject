@@ -90,8 +90,8 @@ JSP + Servlet 중고 거래 사이트 - 가지나라
 
 ### ✏️ 챗봇
 <img width="218" alt="챗봇1" src="https://user-images.githubusercontent.com/112562015/207406658-e0cc0447-020b-4f36-a485-43b59c347560.png">
-<img width="201" alt="챗봇2" src="https://user-images.githubusercontent.com/112562015/207406665-f57a8bcb-cc04-4c38-ae42-fdb702a5cb9e.png">
 - 회원은 웹사이트 하단의 버튼 클릭으로 챗봇을 실행할 수 있습니다.<br>
 - 챗봇(관리자)은 회원에게 서비스 번호를 메시지로 보여줍니다.<br>
+<img width="201" alt="챗봇2" src="https://user-images.githubusercontent.com/112562015/207406665-f57a8bcb-cc04-4c38-ae42-fdb702a5cb9e.png">
 - 회원은 번호를 입력해 원하는 서비스로 이동합니다.<br><br>
 
