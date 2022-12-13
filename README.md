@@ -64,7 +64,7 @@ JSP + Servlet 중고 거래 사이트 - 가지나라
 
 
 ### ✏️ QNA 
-<img width="438" alt="qna상세" src="https://user-images.githubusercontent.com/112562015/207407212-7d1ac68a-1f4a-4a4d-8b15-ece7a71732c3.png"><br><br>
+<img width="438" alt="qna상세" src="https://user-images.githubusercontent.com/112562015/207407212-7d1ac68a-1f4a-4a4d-8b15-ece7a71732c3.png">
 - 작성자와 관리자만 문의글을 열람, 수정, 삭제할 수 있습니다.
 - 회원은 문의 게시판에 문의글을 작성하고 여러장의 이미지를 올릴 수 있습니다.<br><br>
 
