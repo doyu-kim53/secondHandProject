@@ -50,3 +50,7 @@ JSP + Servlet 중고 거래 사이트 - 가지나라
 -인원 : 4명<br>
 -김도유, 김동환, 이재영, 임재헌
 
+## ERD
+<img width="754" alt="2차ERD" src="https://user-images.githubusercontent.com/112562015/207402568-36add992-0616-4f48-8d55-a2040d045aaa.png">
+
+
