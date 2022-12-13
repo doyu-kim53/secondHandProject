@@ -53,4 +53,26 @@ JSP + Servlet 중고 거래 사이트 - 가지나라
 ## ✏️ ERD
 <img width="754" alt="2차ERD" src="https://user-images.githubusercontent.com/112562015/207402568-36add992-0616-4f48-8d55-a2040d045aaa.png">
 
+#### 메인 화면
+<img width="504" alt="메인" src="https://user-images.githubusercontent.com/112562015/207404059-5fc19255-9a7a-4827-be6b-193a9d204988.png">
+
+#### QNA 메인 화면
+<img width="530" alt="qna" src="https://user-images.githubusercontent.com/112562015/207405367-27cb6f00-c468-4d15-8034-c988c45ecd50.png">
+
+#### QNA 관리자 - 문의글에 대한 답글 작성 화면
+<img width="344" alt="qna2" src="https://user-images.githubusercontent.com/112562015/207405430-9993f057-fd44-41f8-9431-a7332bf6b347.png">
+
+#### 회원 관리 메인 화면
+<img width="856" alt="회원관리메인" src="https://user-images.githubusercontent.com/112562015/207405491-3bb6ad20-f2f6-4066-b4dc-e2cc407118c6.png">
+
+#### 상품 관리 메인 화면
+<img width="523" alt="상품관리" src="https://user-images.githubusercontent.com/112562015/207406458-e4afa95e-2a37-458c-965a-a9034a75f6a0.png">
+
+#### 상품 수정 및 삭제
+<img width="258" alt="상품수정" src="https://user-images.githubusercontent.com/112562015/207406544-66a5b124-e70a-4632-bd44-70dc9503c448.png">
+
+#### 챗봇
+<img width="218" alt="챗봇1" src="https://user-images.githubusercontent.com/112562015/207406658-e0cc0447-020b-4f36-a485-43b59c347560.png">
+<img width="201" alt="챗봇2" src="https://user-images.githubusercontent.com/112562015/207406665-f57a8bcb-cc04-4c38-ae42-fdb702a5cb9e.png">
+
 
