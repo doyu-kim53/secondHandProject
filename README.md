@@ -51,20 +51,20 @@ JSP + Servlet 중고 거래 사이트 - 가지나라
 -김도유, 김동환, 이재영, 임재헌
 
 ## ✏️ ERD
-<img width="754" alt="2차ERD" src="https://user-images.githubusercontent.com/112562015/207402568-36add992-0616-4f48-8d55-a2040d045aaa.png"><br><br>
+<img width="754" alt="2차ERD" align="center" src="https://user-images.githubusercontent.com/112562015/207402568-36add992-0616-4f48-8d55-a2040d045aaa.png"><br><br>
 
 ##  화면 구현 및 기능 설명
 ### ✏️ 메인 화면
-<img width="600" alt="메인" src="https://user-images.githubusercontent.com/112562015/207404059-5fc19255-9a7a-4827-be6b-193a9d204988.png"><br><br>
+<img width="600" alt="메인" align="center" src="https://user-images.githubusercontent.com/112562015/207404059-5fc19255-9a7a-4827-be6b-193a9d204988.png"><br><br>
 
 ### ✏️ QNA 메인 화면
-<img width="600" alt="qna" src="https://user-images.githubusercontent.com/112562015/207405367-27cb6f00-c468-4d15-8034-c988c45ecd50.png">
+<img width="600" alt="qna" align="center" src="https://user-images.githubusercontent.com/112562015/207405367-27cb6f00-c468-4d15-8034-c988c45ecd50.png">
 - 작성자와 관리자만 문의글을 열람, 수정, 삭제할 수 있습니다.<br>
 - 관리자는 문의글에 답글을 작성하고 답글은 해당 문의글 바로 아래에 위치합니다.<br><br>
 
 
 ### ✏️ QNA 
-<img width="438" alt="qna상세" src="https://user-images.githubusercontent.com/112562015/207407212-7d1ac68a-1f4a-4a4d-8b15-ece7a71732c3.png">
+<img width="438" alt="qna상세" align="center" src="https://user-images.githubusercontent.com/112562015/207407212-7d1ac68a-1f4a-4a4d-8b15-ece7a71732c3.png">
 - 작성자와 관리자만 문의글을 열람, 수정, 삭제할 수 있습니다.<br>
 - 회원은 문의 게시판에 문의글을 작성하고 여러장의 이미지를 올릴 수 있습니다.<br><br>
 
