@@ -65,12 +65,12 @@ JSP + Servlet 중고 거래 사이트 - 가지나라
 
 ### ✏️ QNA 
 <img width="438" alt="qna상세" src="https://user-images.githubusercontent.com/112562015/207407212-7d1ac68a-1f4a-4a4d-8b15-ece7a71732c3.png">
-- 작성자와 관리자만 문의글을 열람, 수정, 삭제할 수 있습니다.
+- 작성자와 관리자만 문의글을 열람, 수정, 삭제할 수 있습니다.<br>
 - 회원은 문의 게시판에 문의글을 작성하고 여러장의 이미지를 올릴 수 있습니다.<br><br>
 
 ### ✏️ QNA 관리자 - 문의글에 대한 답글 작성 화면
 <img width="600" alt="qna2" src="https://user-images.githubusercontent.com/112562015/207405430-9993f057-fd44-41f8-9431-a7332bf6b347.png"><br><br>
-- 관리자만이 답글을 수정, 삭제할 수 있습니다.<br><br>
+-관리자만이 답글을 수정, 삭제할 수 있습니다.<br><br>
 
 ### ✏️ 회원 관리 메인 화면
 <img width="600" alt="회원관리메인" src="https://user-images.githubusercontent.com/112562015/207405491-3bb6ad20-f2f6-4066-b4dc-e2cc407118c6.png">
@@ -83,7 +83,7 @@ JSP + Servlet 중고 거래 사이트 - 가지나라
 <img width="600" alt="상품관리" src="https://user-images.githubusercontent.com/112562015/207406458-e4afa95e-2a37-458c-965a-a9034a75f6a0.png"><br><br>
 
 ### ✏️ 상품 수정 및 삭제
-<img width="500" alt="상품수정" src="https://user-images.githubusercontent.com/112562015/207406544-66a5b124-e70a-4632-bd44-70dc9503c448.png"
+<img width="500" alt="상품수정" src="https://user-images.githubusercontent.com/112562015/207406544-66a5b124-e70a-4632-bd44-70dc9503c448.png">
 - 관리자는 상품의 정보를 작성자의 아이디, 이름, 카테고리, 제목으로 조회할 수 있습니다.<br>
 - 관리자는 상품의 정보를 수정할 수 있습니다.<br>
 - 관리자는 상품을 삭제할 수 있습니다.<br><br>
